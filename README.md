@@ -1,16 +1,14 @@
-Hello World!
+## Hello World!
 
+#### Учебные проекты:
 
-Учебные проекты:
+[техномарт (html academy)]: https://sonicfear96.github.io/1554867-technomart-29/
+[седона (html academy)]: https://sonicfear96.github.io/1554867-sedona-21/index.html
 
-Техномарт (HTML Academy) https://sonicfear96.github.io/1554867-technomart-29/
-Седона (HTML Academy) https://sonicfear96.github.io/1554867-sedona-21/index.html
-Кексбукинг (HTML Academy) (в процессе выполнения)
+#### Пет-проекты:
 
-Пет-проекты:
-Football App 
-https://sonicfear96.github.io/football-app/
+[football app]: https://sonicfear96.github.io/football-app/
 
-Тестовые:
-Тестовое на стажировку в ВК в команду Фронтенд-инфраструктуры https://github.com/SonicFear96/vk-test
+#### Тестовые:
 
+[тестовое задание на стажировку в команду фронтенд-инфраструктуры вк]: https://github.com/SonicFear96/vk-test
