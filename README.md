@@ -8,7 +8,9 @@ Hello World!
 Кексбукинг (HTML Academy) (в процессе выполнения)
 
 Пет-проекты:
-Football App
+Football App 
+https://sonicfear96.github.io/football-app/
 
 Тестовые:
+Тестовое на стажировку в ВК в команду Фронтенд-инфраструктуры https://github.com/SonicFear96/vk-test
 
