@@ -2,8 +2,8 @@
 
 #### Учебные проекты:
 
-[Техномарт (html academy)](https://sonicfear96.github.io/1554867-technomart-29/)
-[Седона (html academy)](https://sonicfear96.github.io/1554867-sedona-21/index.html)
+[Техномарт (HTML Academy)](https://sonicfear96.github.io/1554867-technomart-29/)
+[Седона (HTML Academy)](https://sonicfear96.github.io/1554867-sedona-21/index.html)
 
 #### Пет-проекты:
 
@@ -11,4 +11,4 @@
 
 #### Тестовые:
 
-[Тестовое задание на стажировку в команду фронтенд-инфраструктуры вк](https://github.com/SonicFear96/vk-test)
+[Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК](https://github.com/SonicFear96/vk-test)
