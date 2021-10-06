@@ -12,3 +12,8 @@
 #### Тестовые:
 
 [Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК](https://sonicfear96.github.io/vk-test/)
+
+
+#### Стек:
+
+HTML, CSS, Less/Sass, JS, React, Git, Gulp
