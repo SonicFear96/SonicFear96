@@ -9,9 +9,10 @@
 
 [Football app](https://sonicfear96.github.io/football-app/)
 
+
 #### Тестовые:
 
-[Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК](https://sonicfear96.github.io/vk-test/)
+[Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК](https://github.com/SonicFear96/vk-test)
 
 
 #### Стек:
