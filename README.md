@@ -12,7 +12,8 @@
 
 #### Тестовые:
 
-[Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК](https://github.com/SonicFear96/vk-test)
+[Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК](https://github.com/SonicFear96/vk-test)  
+[Auth App](https://github.com/SonicFear96/Auth-app)
 
 
 
