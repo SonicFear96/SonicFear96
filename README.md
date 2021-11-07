@@ -8,14 +8,15 @@
 #### Пет-проекты:
 
 [Football app (React, React router, Material UI)](https://sonicfear96.github.io/football-app/)
+[Auth App (HTML, CSS, JS, React, Material UI)](https://github.com/SonicFear96/Auth-app)  
+[Gussi Dev (HTML, CSS, JS)](https://sonicfear96.github.io/gussi-dev/)  
+[Alpaka menu (HTML, CSS, JS)](https://sonicfear96.github.io/alpaka-menu/)  
 
 
 #### Тестовые:
 
 [Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК (HTML, CSS, JS)](https://github.com/SonicFear96/vk-test)  
-[Auth App (HTML, CSS, JS, React, Material UI)](https://github.com/SonicFear96/Auth-app)  
-[Gussi Dev (HTML, CSS, JS)](https://sonicfear96.github.io/gussi-dev/)  
-[Alpaka menu (HTML, CSS, JS)](https://sonicfear96.github.io/alpaka-menu/)  
+
 
 
 
