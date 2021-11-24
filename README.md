@@ -1,13 +1,13 @@
 # Hello World! 🖖
 
-## Проекты, с которыми можно ознакомиться:
+### Проекты, с которыми можно ознакомиться:
 
-#### Учебные проекты
+#### Учебные проекты:
 
 [Техномарт (HTML, CSS, JS) ](https://sonicfear96.github.io/1554867-technomart-29/)  
 [Седона (HTML, CSS, LESS, JS, Gulp, BEM)](https://sonicfear96.github.io/1554867-sedona-21/index.html)
 
-#### Самостоятельные проекты
+#### Самостоятельные проекты:
 
 [Gussi Dev (HTML, CSS, JS)](https://sonicfear96.github.io/gussi-dev/)  
 [Alpaka menu (HTML, CSS, JS)](https://sonicfear96.github.io/alpaka-menu/)  
