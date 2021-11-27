@@ -5,7 +5,8 @@
 #### Учебные проекты:
 
 [Техномарт (HTML, CSS, JS) ](https://sonicfear96.github.io/1554867-technomart-29/)  
-[Седона (HTML, CSS, LESS, JS, Gulp, BEM)](https://sonicfear96.github.io/1554867-sedona-21/index.html)
+[Седона (HTML, CSS, LESS, JS, Gulp, BEM)](https://sonicfear96.github.io/1554867-sedona-21/index.html)  
+[Поиск жилья. Кексобукинг (HTML, CSS, JS)](https://sonicfear96.github.io/1554867-keksobooking-24/)  
 
 #### Самостоятельные проекты:
 
