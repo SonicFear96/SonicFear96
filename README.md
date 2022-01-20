@@ -10,7 +10,6 @@
 
 #### Самостоятельные проекты:
 
-[Gussi Dev (HTML, CSS, JS)](https://sonicfear96.github.io/gussi-dev/)  
 [Alpaka menu (HTML, CSS, JS)](https://sonicfear96.github.io/alpaka-menu/)  
 [Тестовое задание на стажировку в команду фронтенд-инфраструктуры ВК (HTML, CSS, JS)](https://github.com/SonicFear96/vk-test)  
 
